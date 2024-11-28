@@ -1,4 +1,4 @@
-                                                       🛠️ Hotwax Assignment  🛠️
+                                                      🛠️ Hotwax Assignment  🛠️
 
 
 ### ✨ Create a GitHub Account

@@ -1,0 +1,2 @@
+create additional branches for new features or experiments:
+Click on "Branch: main" > Enter a new branch name > Create branch.
